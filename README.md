@@ -68,7 +68,7 @@
 </p>
 <p align='center'>
   👨‍💻 Hipsters and nerds have come here. <br/><br/>
-  <a href="#"><img src="https://badges.pufler.dev/visits/nathanussk/nathanussk"></a>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=earthtoyash&label=Profile%20views&color=0e75b6&style=flat" alt="profilecount" /></a>
 </p>
 
 <details>
