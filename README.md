@@ -71,6 +71,8 @@
   <a href="#"><img src="https://komarev.com/ghpvc/?username=earthtoyash&label=Profile%20views&color=0e75b6&style=flat" alt="profilecount" /></a>
 </p>
 
+[![@nathanexec's Holopin board](https://holopin.me/nathanexec)](https://holopin.io/@nathanexec)
+
 <details>
   <summary>📃 Resume</summary>
 
